@@ -73,7 +73,7 @@ When launching the project through Visual Studio Code, the main menu of MevBot S
 ![📷 Main Menu Screenshot 1](https://i.ibb.co/VpMYscJx/1.png)
 
 
-![📷 Main Menu Screenshot 2](https://i.ibb.co/3mTMMpGb/2.png)
+![📷 Main Menu Screenshot 2](https://i.ibb.co/gZyLG0kS/2.png)
 
 --------
 
